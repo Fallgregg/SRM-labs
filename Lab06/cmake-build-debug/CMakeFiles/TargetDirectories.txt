@@ -1,0 +1,3 @@
+D:/KPI/1course/2smstr/SRM/Labs/SRM-labs/Lab06/cmake-build-debug/CMakeFiles/Lab06.dir
+D:/KPI/1course/2smstr/SRM/Labs/SRM-labs/Lab06/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/KPI/1course/2smstr/SRM/Labs/SRM-labs/Lab06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
