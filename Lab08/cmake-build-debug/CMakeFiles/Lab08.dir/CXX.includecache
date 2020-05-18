@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/KPI/1course/2smstr/SRM/Labs/SRM-labs/Lab08/main.cpp
+iostream
+-
+iomanip
+-
+
